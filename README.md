@@ -7,10 +7,10 @@ Note: Make sure your Flutter environment is setup.<br/>
 ## Check out the documentation to setup Flutter Firebase integration. <br/>
 
 ## For Android <br/>
-In android/app folder add your google-service.json. <br/>
+In android/app folder add/replace your google-service.json. <br/>
 
 ## For iOS <br/>
-In ios/Runner folder add your GoogleService-Info.plist. <br/>
+In ios/Runner folder add/replace your GoogleService-Info.plist. <br/>
 
 
 ## Start your Flutter project by running the command: <br/>
